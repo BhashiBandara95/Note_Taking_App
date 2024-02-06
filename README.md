@@ -7,3 +7,4 @@ Using this App we can take notes and they're saved in the browser temporarily wi
 Can Save, Reset, View, Update and Delete notes.
 
 This Responsive App.
+<img src="./arrows.gif" alt="system" />
